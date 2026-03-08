@@ -84,6 +84,6 @@ Key endpoint: `POST /api/v1/appliance/command`
 
 | Field | Value |
 |---|---|
-| SAID | `WPR4XXNLTL496` |
+| SAID | `device id |
 | Region | EMEA |
 | Auth client | `whirlpool_emea_android_v2` |
